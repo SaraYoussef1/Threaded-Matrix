@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1605640372 source:/home/sara/Downloads/Threads/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<sys/time.h>
+	"read.h"
+	"method1.h"
+	"method2.h"
+	"write.h"
+
+1617124801 /home/sara/Downloads/Threads/read.h
+	<stdio.h>
+
+1617125685 /home/sara/Downloads/Threads/method1.h
+	<pthread.h>
+	"read.h"
+
+1617125677 /home/sara/Downloads/Threads/method2.h
+	<pthread.h>
+	"read.h"
+
+1617125631 /home/sara/Downloads/Threads/write.h
+	<stdio.h>
+	"read.h"
+
