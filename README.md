@@ -7,8 +7,8 @@ User should determine his files' path or program will use the default ones which
 A parallelized version of matrix multiplication can be done using one of these two methods:  
 **1. a thread computes each row in the output C matrix.  
 2. a thread computes each element in the output C matrix.**  
-The progtam performs the multiplication using the two implementations then compares according to:
-the number of thread created and the execution time taken.
+The progtam performs the multiplication using the two implementations then compares according to:  
+the number of thread created and the execution time taken.  
 
 
 
